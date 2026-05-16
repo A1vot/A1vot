@@ -8,53 +8,19 @@
 
 ## Что я умею
 
-### Backend
-
-- Python (структуры данных, ООП, работа с файлами, модулями)
+- Python 
     
-- Django (модели, views, urls, админка, шаблоны)
+- Django
     
-- Django REST Framework (API, сериализаторы, валидация, CRUD)
-    
-- Проектирование структуры данных и бизнес‑логики
-    
-
-### Базы данных
-
-- PostgreSQL (локально и в Docker)
-    
-- SQLite (для прототипов)
-    
-- Миграции, связи моделей, оптимизация запросов
-    
-
-### DevOps / Инфраструктура
-
-- Docker и docker‑compose
-    
-- Поднятие сервисов (Django + PostgreSQL)
-    
-- Работа с контейнерами
+- SQLite
     
 - WSL2, Linux‑терминал
     
-
-### Frontend
-
 - HTML5, CSS3
     
-- Bootstrap 5
-    
-- Работа со статикой в Django
-    
-
-### Инструменты
-
 - Git, GitHub
     
-- VS Code, PyCharm
-    
-- Работа с виртуальными окружениями
+- VS Code
 
 ---
 
